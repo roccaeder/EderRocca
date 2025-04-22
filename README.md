@@ -3,7 +3,6 @@
 
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=rocca-eder"><img src="https://komarev.com/ghpvc/?username=rocca-eder&amp;color=0e75b6&amp;style=flat" alt="Profile views"/></a>
-  <a href="https://github.com/rocca-eder?tab=repositories"><img src="https://img.shields.io/badge/Repositories-5-blue?style=flat&amp;logo=github" alt="Repos"/></a>
 </p>
 
 ## 🚀 About Me
@@ -14,13 +13,12 @@ I’m a **Full Stack Developer** with 3 years of experience in **Ruby on Rails**
 - 📫 Let’s connect: [rocca.eder@gmail.com](mailto:rocca.eder@gmail.com) | ☎️ +51 988 259 933
 
 ## 📌 Featured Projects
-### [Admin Panel – Buk Perú](https://github.com/rocca-eder/buk-admin-panel)
-- **Stack**: Ruby on Rails, StimulusJS, PostgreSQL, Tailwind CSS  
-- Built dashboards and advanced filters, cutting query times by 50%.  
-  ![Buk Admin Demo](path/to/demo-screenshot.png)
+### [Admin Panel – Buk Perú](https://www.buk.pe/)
+- **Stack**: Ruby, Javascript, Ruby on Rails, PostgreSQL, Bootstrap, HTML & CSS,Git, Docker
+- Built dashboards and advanced filters, cutting query times by 50%.
 
-### [E‑Commerce SPA – Chita Spa](https://github.com/rocca-eder/chita-spa-store)
-- **Stack**: React, Redux, AWS S3, Docker  
+### [E‑Commerce SPA – Chita Spa](https://chita.cl/)
+- **Stack**: Ruby, Javascript, Ruby on Rails, ReactJS, PostgreSQL,Bootstrap, HTML & CSS,Git, Docker, AWS S3
 - Configured CI/CD pipelines, speeding up deployments by 30%.
 
 ## 🛠️ Tech Stack
