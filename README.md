@@ -13,11 +13,11 @@ I'm a **Full Stack Developer** with 3 years of experience specializing in fintec
 - 📫 Let’s connect: [rocca.eder@gmail.com](mailto:rocca.eder@gmail.com) | ☎️ +51 988 259 933
 
 ## 📌 Featured Projects
-### [Admin Panel – Buk Perú](https://www.buk.pe/)
+### [Buk Perú](https://www.buk.pe/)
 - **Stack**: Ruby, Javascript, Ruby on Rails, PostgreSQL, Bootstrap, HTML & CSS,Git, Docker
 - Built dashboards and advanced filters, cutting query times by 50%.
 
-### [E‑Commerce SPA – Chita Spa](https://chita.cl/)
+### [Chita Spa](https://chita.cl/)
 - **Stack**: Ruby, Javascript, Ruby on Rails, ReactJS, PostgreSQL,Bootstrap, HTML & CSS,Git, Docker, AWS S3
 - Configured CI/CD pipelines, speeding up deployments by 30%.
 
