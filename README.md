@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I’m Eder Ditmar Rocca Alvarez!</h1>
-<h3 align="center">Full Stack Developer | Ruby on Rails, React &amp; AWS</h3>
+<h3 align="center">Full Stack Developer | Ruby on Rails</h3>
 
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=rocca-eder"><img src="https://komarev.com/ghpvc/?username=rocca-eder&amp;color=0e75b6&amp;style=flat" alt="Profile views"/></a>
 </p>
 
 ## 🚀 About Me
-I’m a **Full Stack Developer** with 3 years of experience in **Ruby on Rails**, **ReactJS**, and **AWS**, specializing in fintech and e‑commerce solutions. I love designing scalable architectures, optimizing performance, and automating processes.
+I'm a **Full Stack Developer** with 3 years of experience specializing in fintech and e-commerce solutions, primarily using **Ruby on Rails**. I have a strong background in designing scalable architectures, optimizing performance, and automating complex processes. I'm also experienced in **JavaScript** and **React**, allowing me to build dynamic, responsive front-end interfaces that integrate seamlessly with robust back-end systems.
 
 - 🔹 Recently at **Buk Perú**, I enhanced billing systems using **Sidekiq** and **Rails Components**.  
 - 🔹 At **Chita Spa**, I implemented integrations and deployments on **AWS S3** and **Docker** within an agile workflow.  
